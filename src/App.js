@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Ro'yxatdagi elementning o'rni: {todos.length}</h1>
+        <h1>Number of items listed:: {todos.length}</h1>
       </header>
 
       <TodoForm addTask={addTask} />

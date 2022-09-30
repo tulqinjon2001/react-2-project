@@ -29,7 +29,7 @@ function TodoForm({ addTask }) {
         placeholder="Enter your product"
       />
 
-      <button >Qo'shish</button>
+      <button >Add</button>
     </form>
   )
 }
